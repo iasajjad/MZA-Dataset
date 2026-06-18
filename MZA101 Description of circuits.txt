@@ -1,0 +1,8 @@
+This device is smart energy meter of ACREL company ADL400N.
+It is basically a three channel device. Each channel is connected with a circuit, the description of circuit is as follow;
+Cicuit A:
+	Kitchen Circuit connected load: Fridge (220W) rating, Micorwave (Rating of 2000W), Lightning load (approximatley 50W) and Electric heater (1KW).
+Circuit B
+	Electric iron (1KW) and Lighning+Fan load (nearly 300W).
+Circuit C:
+	Water Pump (1KW) and Lighning (nearly 50W)
